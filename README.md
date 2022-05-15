@@ -4,4 +4,4 @@
 
 ![codiga score](https://api.codiga.io/project/33556/score/svg)
 
-[codiga grade](https://api.codiga.io/project/33556/status/svg)
+![codiga grade](https://api.codiga.io/project/33556/status/svg)
