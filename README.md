@@ -5,3 +5,5 @@
 ![codiga score](https://api.codiga.io/project/33556/score/svg)
 
 ![codiga grade](https://api.codiga.io/project/33556/status/svg)
+
+[![Build_CI - Linux](https://github.com/AkhilaPathipaka/M3_CAR_WIPER_SYSTEM/actions/workflows/Linux.yml/badge.svg)](https://github.com/AkhilaPathipaka/M3_CAR_WIPER_SYSTEM/actions/workflows/Linux.yml)
