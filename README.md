@@ -10,3 +10,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/AkhilaPathipaka/M3_CAR_WIPER_SYSTEM/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/AkhilaPathipaka/M3_CAR_WIPER_SYSTEM/actions/workflows/Cppcheck.yml)
+
+
+[![Bulid CI - windows](https://github.com/AkhilaPathipaka/M3_CAR_WIPER_SYSTEM/actions/workflows/windows.yml/badge.svg)](https://github.com/AkhilaPathipaka/M3_CAR_WIPER_SYSTEM/actions/workflows/windows.yml)
