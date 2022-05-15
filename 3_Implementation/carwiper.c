@@ -1,7 +1,7 @@
 /**
  * @file carwiper.c
  * @author Akhila P
- * @brief car wiper control
+ * @brief CAR WIPER SYSTEM
  * @version 0.1
  * @date 2022-05-14
  * 
